@@ -88,7 +88,7 @@ plt.axis('off')
 
 vi)Image Cropping
 
-x, y, w, h = 100, 100, 200, 150  
+x, y, w, h = 200, 0, 150, 150  
 cropped_image = image[y:y+h, x:x+w]
 
 plt.imshow(cv2.cvtColor(cropped_image, cv2.COLOR_BGR2RGB)) 
@@ -120,8 +120,8 @@ plt.axis('off')
 
 
 ### vi)Image Cropping
-![croped](https://github.com/user-attachments/assets/cd58547e-4d51-483b-8b44-ed59c8c24b44)
 
+![k](https://github.com/user-attachments/assets/7e7a8034-7b04-4587-833b-6c780e9179d5)
 
 
 
