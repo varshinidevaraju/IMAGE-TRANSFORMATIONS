@@ -25,8 +25,8 @@ Anaconda - Python 3.7
 
 ## Program:
 ```python
-Developed By:
-Register Number:
+Developed By:212223230234
+Register Number:D.Varshini
 
 import cv2
 import numpy as np
